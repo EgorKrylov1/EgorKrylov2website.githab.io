@@ -1,0 +1,25 @@
+body {
+    width: 60%;
+    height: 350px;
+    margin: 0 auto;
+    background: #ffffff;
+    font-size:25px;
+}
+.gg {
+   text-align:center;
+   display:flex;
+   align-items:center
+}
+.i1 {
+    width: 443px;
+    height:250px; position:relative;
+    display: block;
+    padding: 0 10%;
+}
+.i2 {
+    width: 300px;
+    height: 450px;
+    position: relative;
+    display: block;
+    padding: 0 10%;
+}
