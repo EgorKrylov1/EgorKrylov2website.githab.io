@@ -11,14 +11,14 @@ body {
    align-items:center
 }
 .i1 {
-    width: 2%;
-    height:2%; position:relative;
+    width: 400;
+    height:300; position:relative;
     display: block;
     padding: 0 10%;
 }
 .i2 {
-    width: 2%;
-    height: 2%;
+    width: 400;
+    height: 300;
     position: relative;
     display: block;
     padding: 0 10%;
